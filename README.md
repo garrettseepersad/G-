@@ -13,3 +13,7 @@ https://github.com/Java-aid/Hackerrank-Solutions
 [Youtube video on Sherlock and Anagrams](https://www.youtube.com/watch?v=3fpSbdzR6Pc)
 [Number of pairs](
 https://math.stackexchange.com/questions/2214839/exactly-how-does-the-equation-nn-1-2-determine-the-number-of-pairs-of-a-given)
+
+## Overloading operators
+https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm
+https://www.geeksforgeeks.org/operator-overloading-c/
