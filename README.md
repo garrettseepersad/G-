@@ -2,7 +2,12 @@ Collection of resources as I work towards improving my programming skills
 
 # Exercises completed
 [Two strings](two-strings.cpp)
+
 [Sherlock and Anagrams](sherlock-and-anagrams.cpp.cpp)
+
+[Overloaded operators](overload-operators.cpp)
+
+[Shift array left](ctci-array-left-rotation.cpp)
 
 # General resources
 https://github.com/Java-aid/Hackerrank-Solutions
